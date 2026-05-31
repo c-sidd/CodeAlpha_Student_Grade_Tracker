@@ -1,0 +1,10 @@
+===== STUDENT RECORDS =====
+
+Name       : Dheershikha 
+Maths      : 100
+Science    : 100
+English    : 100
+Total      : 300
+Percentage : 100.0
+Grade      : A
+-----------------------------------
